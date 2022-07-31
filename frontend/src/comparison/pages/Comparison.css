@@ -1,0 +1,55 @@
+.comp-form {
+    position: relative;
+    list-style: none;
+    margin: 0 auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+    background: white;
+    /* text-align: left; */
+    display: flex;
+    /* align-items: center; */
+
+  }
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    text-align: left;
+}
+
+.header1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+/* form {
+    text-align: left;
+} */
+
+input {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.submit {
+    width: auto;
+}
+
+#bracket {
+    width: 100%;
+}
+
+
+/* .datas {
+    background-color: rgb(193, 197, 197);
+} */
+
+/* h1 {
+    color: rgb(84, 27, 27);
+    text-align: center;
+} */
